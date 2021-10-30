@@ -1,2 +1,4 @@
-print(5*10)
-print("Hello")
+def multiply(no1, no2):
+	return no1 * no2
+
+multiply(10,20)
